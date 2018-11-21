@@ -18,4 +18,5 @@ return [
     'Zend\Validator',
     'ZendDeveloperTools',
     'Application',
+    'Blog'
 ];
